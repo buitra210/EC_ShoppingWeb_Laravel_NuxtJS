@@ -1,0 +1,631 @@
+[
+    {
+        "sku": "1.2.02.2.18.001.223.23",
+        "name": "T-SHIRT BOXY CACTUS GROWTH BOOLAAB",
+        "description": "- Chất liệu: 100% Cotton thoáng mát, dễ chịu, thấm hút mồ hôi tốt. Thoải mái khi vận động trong thời tiết nóng\n- Form dáng: Thân áo và tay áo rộng, chiều dài áo ngắn hơn form OVS, vai rơi nhẹ, cổ áo sát chân cổ. Áo mặc tạo cảm giác hình hộp, to chiều ngang. Phù hợp với khách hàng trendy, hoặc khách hàng có dáng người dày và to.\n- Màu sắc: Tiedye Pale Green/Trắng kem/Xanh lá đậm\n- Size: XS-L\n- Họa tiết: Áo phối tay raglan in hình xương rồng - xương rồng được xem là biểu tượng cho ý chí kiên cường, sức sống bền bỉ dù hoàn cảnh có khó khăn, khắc nghiệt thế nào\n- Mẫu nam: 1m85 - 70kg - Size M",
+        "price": 599000,
+        "color": ["#A6CBE1", "#FFFFFF", "#203E30"],
+        "brand": "BOOLAAB",
+        "collection": "",
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.2.18.001.223.23.30700044_3_.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.2.18.001.223.23.10100035_1__1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.2.18.001.223.23.10700013_1_.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.1.18.001.223.23",
+        "name": "T-SHIRT FE BABYTEE RINGER INFINITEE 07",
+        "description": "- Chất liệu: 100% Cotton thoáng mát, dễ chịu, thấm hút mồ hôi tốt. Thoải mái khi vận động trong thời tiết nóng\n- Form dáng: Dáng áo Baby Tee có kích thước nhỏ, thân áo ôm sát người và tay áo hơi bó. Nhìn chung áo “em bé” được thiết kế vừa với thân, tương phản với form áo oversize\n- Màu sắc: Trắng/Xanh da trời\n- Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 399000,
+        "color": ["#FFFFFF", "#A6CBE1"],
+        "brand": "BOOLAAB",
+        "collection": "BOOLAAB INFINITEE 07",
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.1.18.001.223.23.10100011_1__1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.1.18.001.223.23.10600011_1_.jpg"
+        ]
+    },
+    {
+        "sku": "1.0.02.3.22.005.223.23",
+        "name": "T-SHIRT UN REGULAR LOTSO TICKLE ME",
+        "description": "- Chất liệu: 100% Cotton thoáng mát, dễ chịu, thấm hút mồ hôi tốt. Thoải mái khi vận động trong thời tiết nóng\n- Form dáng: Thân áo và tay áo rộng, dài vừa phải, vai rơi nhẹ, cổ áo rộng vừa không quá sát chân cổ. Phù hợp cho khách hàng không muốn mặc kiểu thùng thình. Áo mặc rộng rãi khi cử động nhưng vẫn đảm bảo form áo theo cơ thể người\n- Màu sắc: Đen/Trắng/Vàng canary\n- Họa tiết: Áo được in hình mặt gấu Lotso trước ngực, mặt sau in nổi chữ TICKLE ME PINK - áo được mua bản quyền chính thức từ Disney.\n- Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 649000,
+        "color": ["#E5E5CC", "#FFFFFF", "#000000"],
+        "brand": null,
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.02.3.22.005.223.23.11000035_2__5.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.02.3.22.005.223.23.10100035_1__2.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.02.3.22.005.223.23.10200011_2__1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.29.3.18.002.223.23",
+        "name": "BALO UN MEDIUM PATTERN HYPERKIDZ INF07",
+        "description": "- Chất liệu: Vải tổng hợp có độ bền cao. Khó bị co giãn hay bị nhăn khi giặt bằng máy giặt\n- Màu sắc: Đen/Be\n- Bộ sưu tập: BACK TO SCHOOL 23\n- Brand: BOOLAAB",
+        "price": 1299000,
+        "color": ["#F6EFE5", "#000000"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.18.002.223.23-10400011-bst-1_2.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.18.002.223.23-10200011-bst-1_2.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.29.3.18.001.223.23",
+        "name": "BALO UN MEDIUM PATTERN LOGO BL B2S",
+        "description": "- Chất liệu: Vải tổng hợp có độ bền cao. Khó bị co giãn hay bị nhăn khi giặt bằng máy giặt\n- Màu sắc: Đen/Xanh da trời/Be\n- Bộ sưu tập: BACK TO SCHOOL 23\n- Brand: BOOLAAB\n- Họa tiết: In tràn họa tiết monogram logo Boolaab, chất liệu chống thấm nước nhẹ, kèm túi phụ nhỏ xinh xắn đáng yêu",
+        "price": 1399000,
+        "color": ["#F6EFE5", "#000000"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.18.001.223.23-10400011-bst-1_2.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.18.001.223.23-10200011-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.18.001.223.23-10600014-bst-1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.29.3.06.001.223.23",
+        "name": "BALO UN MEDIUM LOGO BOO MF COOL",
+        "description": "- Chất liệu: Vải tổng hợp có độ bền cao. Khó bị co giãn hay bị nhăn khi giặt bằng máy giặt\n- Màu sắc: Đen/Xanh tím than/Hồng\n- Bộ sưu tập: BACK TO SCHOOL 23\n- Brand: BOOCORE\n- Họa tiết: Balo không chỉ để đựng đồ mà còn thể hiện phong cách của bạn, khóa kéo chắc chắn, độ bền cao, thiết kế có nhiều ngăn rộng rãi để được sách vở, máy tính, điện thoại, máy tính bảng,...Trọng lượng nhẹ, thích hợp cho việc di chuyển dễ dàng. Phù hợp đi chơi, đi làm, đi học, hoặc đi du lịch.",
+        "price": 999000,
+        "color": ["#000000", "#FDE5E8", "#435279"],
+        "brand": "BOOCORE",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.06.001.223.23-10200011-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.06.001.223.23-11200030-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.29.3.06.001.223.23-10800021-bst-1_2.jpg"
+        ]
+    },
+    {
+        "sku": "1.0.29.3.22.004.123.23",
+        "name": "BALO MARVEL GO VIETNAM BOOZILLA",
+        "description": "- Chất liệu: Vải Cordura - là chất liệu có độ bền cao, có khả năng chống trầy xước và chống thủng. Vì vậy nó trở thành vật liệu may mặc lý tưởng cho đồ outdoor và trang phục quân sự. Vải Cordura dệt dày đặc có thể chống trầy xước và nước mắt nhưng không có khả năng chống thấm nước.\n- Màu sắc: Đen/Be\n- Họa tiết: Logo Marvel thêu nổi - Hình in siêu anh hùng kết hợp với tranh Hàng Trống\n- Size: Freesize - Kích thước: 50cm x 45cm x15cm\n\"Marvel Go Vietnam\" đánh dấu lần đầu tiên tại Đông Nam Á, hình ảnh siêu anh hùng quen thuộc được tái hiện qua chất liệu văn hóa truyền thống địa phương - bộ tranh dân gian Hàng Trống.\nSự kết hợp không chỉ đem lại góc nhìn mới lạ mà còn khẳng định tinh thần của người trẻ Việt: Ưu tiên phát triển sáng tạo dựa trên các giá trị văn hóa truyền thống.",
+        "price": 1399000,
+        "color": ["#000000", "#ECDB9A"],
+        "brand": "BOOZILLA",
+        "collection": "FLEX TO SCHOOL|MARVEL GO VIETNAM",
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.29.3.22.004.123.23-10200011-bst-1_2.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.29.3.22.004.123.23_2__1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.023.123.23",
+        "name": "T-SHIRT OVERSIZED UN LOGO MADE IN HN ENTRY",
+        "description": "-Tên sản phẩm: ÁO PHÔNG OVERSIZED UN LOGO MADE IN HN ENTRY\n-Chất liệu: 100% Cotton thoáng mát, dễ chịu, thấm hút mồ hôi tốt. Thoải mái khi vận động trong thời tiết nóng\n-Form dáng: \"Dáng rộng Oversize thoải mái, dễ dàng vận động phù hợp cho cả nam và nữ. Đây là dáng áo dễ mặc che được nhiều khuyết điểm\"\n-Màu sắc: Đen/Trắng/Xanh rêu/Xanh Neon/Hồng/Xanh da trời\n-Size: XS-L\n-Bộ sưu tập: BOO LOCAL FLAVOR\n-Brand: BOO\n-Họa tiết: Áo được in nổi logo BOO - Made in Hanoi, đơn giản nhưng không kém phần cuốn hút\n-Mẫu nam: 1m85 - 70kg - Size M\n-Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 253000,
+        "old_price": 349000,
+        "discount": 28,
+        "color": ["#EEF7AB", "#000000", "#E5E3D5", "#746E4E"],
+        "brand": "BOO",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.023.123.23-10700057-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/s/h/shirt-tru_o_c-boo-_en_optimized.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.023.123.23.10100011_4.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.023.123.23.10700019_2.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.18.3.02.007.222.23",
+        "name": "GHILE SWEATER WITH LOGO PATTERN",
+        "description": "ÁO LEN GHILE UN DỆT TRÀN LOGO\n- Áo chất liệu len lông thỏ mềm mịn không gây cảm giác khó chịu cho người mặc\n- Họa tiết in tràn chữ B cá tính kèm logo BOO\n- Có thể kết hợp cùng áo sơ mi, áo phông, quần jeans,...\n- Size mẫu mặc: S\n-Số đo mẫu: 163cm, 46kg",
+        "price": 899000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#000000", "#23304E"],
+        "brand": "BOO",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.18.3.02.007.222.23-10200011-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.18.3.02.007.222.23-10600069-bst-1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.25.1.18.002.123.23",
+        "name": "SKIRT MIDI INFI 07 BOOLAAB",
+        "description": "SKIRT MIDI INFI 07 BOOLAAB",
+        "price": 432000,
+        "old_price": 849000,
+        "discount": 49,
+        "color": ["#000000", "#FFFFFF"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.25.1.18.002.123.23-10200011-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.25.1.18.002.123.23-10400034-bst-1_7.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.09.1.06.001.223.23",
+        "name": "SHORT WOMAN KHAKI LOGO BOO SET",
+        "description": "- Tên sản phẩm: QUẦN SHORT NỮ KHAKI THÊU LOGO BOO SET\n- Chất liệu: Thun co dãn nhẹ\n- Form dáng: Quần short nữ với độ ngắn vừa phải cho nàng thoải mái hoạt động. Các mẫu quần short luôn là ưu tiên hàng đầu mỗi khi hè về bởi sự tiện lợi, mát mẻ.\n- Màu sắc: Trắng/Hồng\n- Size: S M L\n- Brand: BOOCORE\n- Họa tiết: Quần cạp cúc, dáng chữ A phù hợp với nhiều dáng người, che được khuyết điểm, tôn dáng, có 2 màu trendy Trắng/Hồng cho mọi người chọn lựa\n- Mẫu nam: 1m85 - 70kg - Size L\n- Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 549000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FDE7EB"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.09.1.06.001.223.23-11200011-bst-1_3.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.09.1.06.001.223.23-11200011-bst-1_5.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.17.1.06.001.223.23",
+        "name": "SHIRT WOMAN OVERSIZED LOGO BOO SET",
+        "description": "- Tên sản phẩm: ÁO SƠ MI NỮ OVERSIZED THÊU TÚI LOGO BOO SET\n- Chất liệu: Thun co dãn nhẹ\n- Form dáng: \"Dáng rộng Oversize thoải mái, dễ dàng vận động phù hợp cho cả nam và nữ. Đây là dáng áo dễ mặc che được nhiều khuyết điểm\"\n- Màu sắc: Trắng/Hồng\n- Size: S M L\n- Brand: BOOCORE\n- Họa tiết: Dáng áo sơ mi oversized phù hợp với nhiều dáng người, che được nhiều khuyết điểm trên cơ thể. Có thể mặc đi chơi, đi làm, đi học,...kết hợp được với nhiều kiểu quần khác nhau\n- Mẫu nam: 1m85 - 70kg - Size L\n- Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 799000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FDE7EB"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/b/o/boo_3299_4.jpg",
+            "https://cdn.boo.vn/media/catalog/product/b/o/boo_3284.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.21.1.18.001.123.23",
+        "name": "JEANS WOMAN WAIST CUT BOOLAAB",
+        "description": "- Tên sản phẩm: ÁO SƠ MI NỮ OVERSIZED THÊU TÚI LOGO BOO SET\n- Chất liệu: Thun co dãn nhẹ\n- Form dáng: \"Dáng rộng Oversize thoải mái, dễ dàng vận động phù hợp cho cả nam và nữ. Đây là dáng áo dễ mặc che được nhiều khuyết điểm\"\n- Màu sắc: Trắng/Hồng\n- Size: S M L\n- Brand: BOOCORE\n- Họa tiết: Dáng áo sơ mi oversized phù hợp với nhiều dáng người, che được nhiều khuyết điểm trên cơ thể. Có thể mặc đi chơi, đi làm, đi học,...kết hợp được với nhiều kiểu quần khác nhau\n- Mẫu nam: 1m85 - 70kg - Size L\n- Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 849000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#B1C8DE"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.21.1.18.001.123.23-60600034-bst-1.jpg"
+        ]
+    },
+    {
+        "sku": "1.0.30.3.11.002.123.23",
+        "name": "BUCKET HAT LOGO BOO THE SIMPSONS",
+        "description": "- Chất liệu: Được làm từ sợi PVC độ bền cao, nhẹ nhàng, thoải mái khi mặc. Chất liệu này có khả năng chống gió, chống nước tốt. Phù hợp với thời tiết Thu Đông\n- Màu sắc: Xanh da trời/Đen\n- Bộ sưu tập: THE SIMPSONS 23\n- Brand: BOOZILLA\n- Size: Freesize\n- Họa tiết: Mũ có thể đội được 2 mặt, 1 mặt in tràn họa tiết các nhân vật trong phim hoạt hình The simpsons, mặt trong in logo",
+        "price": 399000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#B1C8DE"],
+        "brand": "BOOZILLA",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.30.3.11.002.123.23-30600049-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.0.30.3.11.002.123.23-30600049-n-2_1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.17.1.06.002.123.23",
+        "name": "WOMAN SHIRT LONGSLEEVES CROPTOP LOGO FR",
+        "description": "Tên sản phẩm: ÁO SƠ MI NỮ LONGSLEEVES CROPTOP THÊU LOGO FR\n-Chất liệu: Vải tổng hợp có độ bền cao. Khó bị co giãn hay bị nhăn khi giặt bằng máy giặt\n-Màu sắc: Trắng/kẻ trắng hồng/kẻ xanh trắng\n-Form dáng: Dáng áo croptop được thiết kế ôm sát người, ngắn tới eo người mặc. Đây là items luôn được phái nữ săn đón mỗi khi hè về\n-Size: S M L\n-Mẫu nam: 1m85 - 70kg - Size M Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 549000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#B1C8DE", "#DCC4EB"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.17.1.06.002.123.23-40600036-bst-1_3.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.17.1.06.002.123.23-41200031-bst-1_2.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.26.1.06.001.123.23",
+        "name": "WOMAN SKIRT LOCAL FLAVOR",
+        "description": "QUẦN VÁY NỮ SKORT LOCAL FLAVOR",
+        "price": 463000,
+        "old_price": 649000,
+        "discount": 29,
+        "color": ["#000000", "#C4B4B4", "73758C"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.26.1.06.001.123.23-10200011-bst-1_6.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.26.1.06.001.123.23-10400011-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.26.1.06.001.123.23-11300011-bst-1_1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.18.3.02.013.222.23",
+        "name": "GHILE SWEATER REGULAR PATCH B",
+        "description": "ÁO GILLET LEN VẶN THƯỜNG ĐÍNH PATCH B\n- Áo gile dáng oversized thích hợp cho cả nam và nữ\n- Áo thiết kế thêu Patch B trước áo đầy thời trang\n- Có thể kết hợp cùng quần sooc, quần jeans, quần kaki, áo khoác,...\n- Chất liệu : Len vặn thừng, gây cảm giác thoải mái cho người mặc nhưng cũng đầy cá tính\n- Size mẫu mặc M",
+        "price": 699000,
+        "old_price": null,
+        "discount": null,
+        "color": ["F0ECE1", "#000000", "#1F3A35"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.18.3.02.013.222.23-10400034-bst-1_6.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.18.3.02.013.222.23-10200011-bst-1_4.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.18.3.02.013.222.23-10700011-bst-1_4.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.27.3.06.001.123.23",
+        "name": "APRON SHORT FE DENIM LOGO BOO LOCAL FLAVOR",
+        "description": "Tên sản phẩm: YẾM SHORT FE DENIM THÊU LOGO BOO LOCAL FLAVOR\n-Chất liệu: Denim jeans\n-Màu sắc: Xanh blue/Đen\n-Size:XS-M\n-Bộ sưu tập: Local Flavor\n-Brand: BOO\n-Họa tiết: Yếm là 1 item trẻ trung năng động, phù hợp với nhiều lứa tuổi, thiết kế gấp gấu xỏa càng làm cho sản phẩm thêm phần tinh nghịch, có thể kết hợp với áo phông, áo sơ mi, áo ống,...\n-Mẫu nam: 1m85 - 70kg - Size L Mẫu nữ: 1m58 - 47kg - Size S",
+        "price": 799000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#000000", "#CFE0EC"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.27.3.06.001.123.23-60200011-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.27.3.06.001.123.23-60600015-bst-1_2.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.21.2.18.002.123.23",
+        "name": "MEN'S LOOSE BAGGY JEANS",
+        "description": "QUẦN JEANS NAM Baggy suông",
+        "price": 999000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#000000"],
+        "brand": "BOOLAAB",
+        "collection": "FLEX TO SCHOOL",
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.21.2.18.002.123.23-60200011-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.21.2.18.002.123.23-60200011-n-2.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.12.3.20.002.223.23",
+        "name": "SLEEPING BLINDFOLD NAMNGU",
+        "description": "Nịt mắt hồng, biển số vợ iu chồng - Dành cho các couple trai tài gái xỉu có sở thít mặn mà: bịt mắt bắt yê. Sản phẩm áp dụng cho cả hoạt động ngủ và hoạt động “ngủ” qua lăng kính màu hường.\nGraphic - Imagination in progress #graphic #imaginationINprogress\nCông dụng: Ngăn ánh sáng, bảo vệ chất lượng giấc ngụ\nChất liệu: 95% Bamboo (vải sợi tre thân thiện dễ chịu mang lại trẻ vibe) , 5% Spandex (co dãn, đàn hồi tốt hơn cả cả cách hẹn hò cao su)\nƯu điểm: \n\tChất liệu thân thiện với môi trường \n\tAn toàn tuyệt đối với mọi loại da, dù trắng trẻo hay “da den”\n\tNgăn chặn tia UV và kháng khuẩn\n\tCó chứng nhận GOTS, GRS, OEKO-TEX\nNhược điểm: Tạo cho người dùng cảm giác ngủ quên trên chiến thắng, hạn chế động lực đi làm vì chiếc máy chấm công một khi chìm sâu vào giấc ngủ.",
+        "price": 149000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#CB8DBC"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.12.3.20.002.223.23_h.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.12.3.20.003.223.23",
+        "name": "SLEEPING BLINDFOLD GRAPHIC",
+        "description": "Đai bảo hộ tầm nhìn - sản phẩm dành cho người mắt quá sáng, thiếu mù quáng trong tình iu.\nGraphic - Imagination in progress #graphic #imaginationINprogress\nCông dụng:\nNgăn ánh sáng, bảo vệ chất lượng giấc ngụ\nChất liệu: \n95% Bamboo (vải sợi tre thân thiện dễ chịu mang lại trẻ vibe) , 5% Spandex (co dãn, đàn hồi tốt hơn cả cả cách hẹn hò cao su)\nƯu điểm: \nChất liệu thân thiện với môi trường\nAn toàn tuyệt đối với mọi loại da, dù trắng trẻo hay “da den”\nNgăn chặn tia UV và kháng khuẩn\nCó chứng nhận GOTS, GRS, OEKO-TEX\nNhược điểm:\nTạo cho người dùng cảm giác ngủ quên trên chiến thắng, hạn chế động lực đi làm vì chiếc máy chấm công một khi chìm sâu vào giấc ngủ.",
+        "price": 149000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF", "#000000"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["FREE"],
+        "stock": 100,
+        "image": ["https://cdn.boo.vn/media/catalog/product/_/e/_en.jpg"]
+    },
+    {
+        "sku": "1.2.02.3.20.003.223.23",
+        "name": "T-SHIRT GRAPHIC LOGO 01",
+        "description": "Việc của trí tưởng tượng là mở đường cho tương lai, việc của bạn là tung tăng để nó dắt bạn đến nơi bạn muốn tới. Sản phẩm này quá đơn giản so với gu của bạn? Pick nó về và làm nó trở nên độc nhất vô nhị qua nút “Thêm vào giỏ hàng nhé”\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi. \n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL\n- Họa ảnh: #ImaginationInProgress Sự tưởng tượng vẫn đang tiếp diễn\n- Nữ nhân: 1m6 - 47kg : Size S\nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/2/_/2_3_3.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1_1_5.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.02.004.123.23",
+        "name": "T-SHIRT GRAPHIC LÀ VÌ EM",
+        "description": "EVÌANH – LÀVÌEM: Iu nhau mấy núi cũng trèo, mấy sông cũng lội, mấy giờ qua em?\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi. \n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng \n- Không có đúng vì chỉ có size: XS / S / M / L / XL \n- Họa ảnh: Theo một nghiên cứu cho rằng, uống 2 lít nước mỗi ngày sẽ  có thể làm cho cơ thể có được niềm vui thuần khiết\n- Nam nhân: 1m75 - 65kg : Size M\nVì vậy, trong bộn bề cuộc sống mệt mỏi, hãy nhớ tự “truyền nước” cho bản thân nhé các bạng iu\nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 599000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#000000"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.004.123.23.10200011_1__5.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.004.123.23.10200011_2__5.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.02.003.123.23",
+        "name": "T-SHIRT GRAPHIC PERFECT HAO HAO",
+        "description": "Nếu mà ai cũng hoàn hảo thì trong gói mì Hảo Hảo đã có tôm.\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi. \n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Bạn vô tình / bắt đầu nghi ngờ về nhân sinh khi đã ba ngày của bản thân trôi qua trở một cách êm đẹp, không có chút sóng gió nào? Đúng là sống trong khổ lâu quá, sướng chút lại không quen màaaa\n- Nữ nhân: 1m6 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 599000,
+        "old_price": null,
+        "discount": null,
+        "color": ["F8F3D5", "#C8D9E5", "#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.003.123.23.11000035_1_-2_5.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.003.123.23.10600086_1_-2.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.003.123.23.10100011_1_.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.02.005.123.23",
+        "name": "T-SHIRT GRAPHIC GIVE ME A PIECE",
+        "description": "LẤY E – NEXT ĐÊ: “Một miếng” là bao nhiêu?\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Anh ngại ngùng trao em lời thương nhớ, em cap lại gửi cho “hội đồng” xem.\n- Nam nhân: 1m75 - 65kg : Size M\n- Nữ nhân: 1m6 - 47kg : Size S\nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 599000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#ADC4C9", "#DED1CA"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.005.123.23.10600089_2__3.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.005.123.23.11300014_1_-2_1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.02.006.123.23",
+        "name": "T-SHIRT GRAPHIC GRAPHIC SUBCUA – PIGBABOL",
+        "description": "Một câu hỏi “tu từ” muôn thuở: “Hôm nay ăng gì?”\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Truyền thuyết kể rằng, có một cặp đôi nọ quyết định tiết kiệm để cùng nhau đi Đà Lạt. Vậy nhưng trong quá trình tiết kiệm, họ đã phải trải qua không ít các kiếp nạn như Hadilao, buffet nướng, tà tữa và 7749 kiếp nạn khác. Hỏi: Bao giờ họ tới được Đà Lạt đây nhỉ?\n- Nam nhân: 1m75 - 65kg : Size M\n- Nữ nhân: 1m6 - 47kg : Size S\nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 599000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FB7695", "#ECE0D8"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.006.123.23.11200030_2__5.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.02.006.123.23.10400041_1_.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.20.004.223.23",
+        "name": "T-SHIRT GRAPHIC LOGO 02",
+        "description": "Bạn cần một thiết kế tối giản để chuẩn bị cho tương lai tối tăm? Hãy để “bản thiết kế vĩ đại” này giúp bạn vẽ lên viễn cảnh tương lai sáng trưng hơn bằng chính trí tưởng tượng của mình nha ! \nVì tương lai tươi sáng hơn, hãy bắt đầu bằng nút “Mua ngay” ở ngay bên dưới\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi. \n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Xanh\n- Không có đúng vì chỉ có size: XS/S/M/L/XL\n- Họa ảnh: #ImaginationInProgress Sự tưởng tượng vẫn đang tiếp diễn\n- Nam nhân: 1m75 - 65kg : Size M\nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#4174B8"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.20.004.223.23.10600090_3__5_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/cache/fb3bf735b43792c1c29e20d6e1fae5ec/g/r/graphic_1_.png"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.038.123.23",
+        "name": "T-SHIRT GRAPHIC NO LOVE",
+        "description": "Sản phẩm dành cho những người luôn cảm thấy cô đơn, trôi nổi mà trong tim là khao khát tình yêu cháy bỏng đến mức … \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi. \n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in slogan \"NO LOVE\", kèm ghi chú “Everything happens for a reason: Explore it\"\n- Nam nhân: 1m85 - 70kg : Size L\n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.038.123.23.10100011_4_.jpg",
+            "https://cdn.boo.vn/media/catalog/product/7/_/7_18.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.20.001.123.23",
+        "name": "T-SHIRT GRAPHIC NETFLIX",
+        "description": "Sản phẩm dành cho những người không thích kiến tạo, không thích khoe khoang mà thích FLEX cực NÉT \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi. \n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Đen/Trắng\n- Không có đúng vì chỉ có size: S/M/L\n- Họa ảnh: Mặt trước in slogan \"NÉTFLEX - flexing rất  là vô tình\"\n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.20.001.123.23.10100035_6_.jpg",
+            "https://cdn.boo.vn/media/catalog/product/n/e/netflex-09.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.035.123.23",
+        "name": "T-SHIRT GRAPHIC LAZY WORKING",
+        "description": "Sản phẩm dành cho những người: “Haizz, tự nhiên lười ngang thế nhở!!”\n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Đen/Be vỏ trứng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in slogan \"LƯỜI LAO ĐỘNG\" \n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#000000", "#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/l/u/luoi_lao_dong-14.jpg",
+            "https://cdn.boo.vn/media/catalog/product/l/u/luoi_lao_dong-15_5.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.041.123.23",
+        "name": "T-SHIRT GRAPHIC CUA BEN TAI MAY",
+        "description": "Đây là một sản phẩm tự phát ra âm thanh \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Đen/Be vỏ trứng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in slogan \"CỦA BỀN TẠI MÀY\" \n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1_1_3.jpg",
+            "https://cdn.boo.vn/media/catalog/product/5/_/5_2_1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.037.123.23",
+        "name": "T-SHIRT GRAPHIC SÂNSITIVE",
+        "description": "Sensi-tive hay sânsi-tive chỉ cách nhau một ” “ bạng nhó \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Đen/Be vỏ trứng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in slogan \"SÂNSITIVE\" \n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#D1E3E7"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.037.123.23.10600089_5__1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/s/a/sansitive-05.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.20.001.223.23",
+        "name": "T-SHIRT GRAPHIC CD",
+        "description": "Sản phẩm dành cho những “để icon đĩa CD “ mê đùa \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Đen/Be vỏ trứng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in sự thật mất lòng \"The best joke of the day, most people want to be a creative director\" cùng ghi chú phía sau gáy “5 to 10 years experience”\n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#D1E3E7"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.20.001.223.23.10100035_1_.jpg",
+            "https://cdn.boo.vn/media/catalog/product/c/d/cd-17.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.036.123.23",
+        "name": "T-SHIRT GRAPHIC FEAR OF DOG",
+        "description": "Sản phẩm dành cho những người theo trường phái sống “đếch” quan tâm, sợ chóa gì? \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Đen/Be vỏ trứng \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in slogan \"FEAR OF DOG\", kèm ghi chú “Nó không cắn đâu!\" \n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#DBD5D5"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.036.123.23.11300014_2__4.jpg",
+            "https://cdn.boo.vn/media/catalog/product/f/e/fear_of_dog-24.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.039.123.23",
+        "name": "T-SHIRT GRAPHIC INVISIBLE",
+        "description": "Sản phẩm dành cho những người cảm thấy mình đang không có gì trong tay, trống rỗng và vô định \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Be vỏ trứng/Xanh bọt biển/Vàng canary/Trắng kem/Đen/Nâu đậm  \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Áo invisible thì họa tiết cũng “invisible” lun, phải tinh mắt lắm mới nhìn ra \n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": [
+            "#F1F3E5",
+            "#DBD5D5",
+            "#B3C1D8",
+            "#FFFFFF",
+            "#000000",
+            "#A67C52"
+        ],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/1/_/1_1__1_1_4.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.039.123.23-10400041-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.039.123.23-10600089-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.039.123.23-10100035-bst-1_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.039.123.23-10200011-bst-1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/1/_/1.2.02.3.06.039.123.23-11300012-bst-1.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.02.3.06.040.123.23",
+        "name": "T-SHIRT GRAPHIC EVERYDAY LIFE ON STRESS",
+        "description": "Sản phẩm dành cho những người thèm ăn, chén cả cơn stress luôn còn gì \n- 100% Cotton USA trong từng thớ vải khiến sản phẩm thoáng mát và dễ thấm hút mồ hôi.\n- Kiểu dáng “Regular” là dáng áo tiêu chuẩn, phù hợp với hầu hết mọi người \n- Sắc tố: Trắng/Hồng tea rose \n- Không có đúng vì chỉ có size: XS/S/M/L/XL \n- Họa ảnh: Mặt trước in slogan \"EVERYDAY LIFE ON  STRESS\", kèm highlight vào sự “STRESS” khủng khiếp này  \n- Nam nhân: 1m85 - 70kg : Size L \n- Nữ nhân: 1m58 - 47kg : Size S \nSản phẩm làm từ chất liệu sợi bông tự nhiên Cotton USA đạt chuẩn quốc tế về may mặc. Vải có độ mềm mại, thoáng mát và thấm hút tốt. Quá trình sản xuất vải hạn chế tối thiểu tác động tới môi trường và đảm bảo quyền lợi cho người lao động.",
+        "price": 499000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF", "#F27D8C"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["XS", "S", "M", "L", "XL"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/s/t/stress-01_1.jpg",
+            "https://cdn.boo.vn/media/catalog/product/z/4/z4713573138052_e259f51717133ea1d452b28e35e3268b.jpg"
+        ]
+    },
+    {
+        "sku": "1.2.12.3.06.001.223.23",
+        "name": "GRAPHIC BOX",
+        "description": "SECRET GRAPHIC BOX",
+        "price": 25000,
+        "old_price": null,
+        "discount": null,
+        "color": ["#FFFFFF"],
+        "brand": "GRAPHIC",
+        "collection": null,
+        "size": ["FREE"],
+        "stock": 100,
+        "image": [
+            "https://cdn.boo.vn/media/catalog/product/b/o/box-compressed_2_.jpg"
+        ]
+    }
+]
