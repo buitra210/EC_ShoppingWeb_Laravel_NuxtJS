@@ -18,7 +18,9 @@ const banners = ["https://cdn.boo.vn/media/wysiwyg/desktop-02_11zon_2_2.jpg"];
 const collection = ref(null);
 onMounted(async () => {
   try {
-    const response = await axios.get("/api/products/collection/looney-tunes");
+    const response = await axios.get(
+      "/api/api/products/collection/looney-tunes"
+    );
     // Handle the response data here
     collection.value = response.data;
     // console.log(response.data);

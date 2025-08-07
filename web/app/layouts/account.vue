@@ -49,7 +49,7 @@ const products: Ref<Array<Object> | null> = ref(null);
 const current = ref(0);
 onMounted(async () => {
   try {
-    const response = await axios.get("/api/products");
+    const response = await axios.get("/api/api/products");
     // Handle the response data here
     products.value = response.data;
     // console.log(response.data);

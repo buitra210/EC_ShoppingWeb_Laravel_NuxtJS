@@ -20,7 +20,9 @@ const banners = ref<string[]>([]);
 const collection = ref(null);
 onMounted(async () => {
   try {
-    const response = await axios.get("/api/products/collection/booxessentials");
+    const response = await axios.get(
+      "/api/api/products/collection/booxessentials"
+    );
     // Handle the response data here
     collection.value = response.data;
     // console.log(response.data);

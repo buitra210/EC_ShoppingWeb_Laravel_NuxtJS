@@ -14,7 +14,7 @@ const banner = "https://cdn.boo.vn/media/wysiwyg/web_1409.gif";
 const products = ref(null);
 onMounted(async () => {
   try {
-    const response = await axios.get("/api/products/brand/graphic");
+    const response = await axios.get("/api/api/products/brand/graphic");
     // Handle the response data here
     products.value = response.data;
     // console.log(response.data);
