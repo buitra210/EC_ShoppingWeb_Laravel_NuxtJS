@@ -1,6 +1,6 @@
 import { defineStore } from "pinia";
 import axios from "~/libs/axios";
-import { getCookie, removeCookie, setCookie } from "~/utils/cookies";
+import { getCookie, removeCookie } from "~/utils/cookies";
 export interface User {
   id: number;
   first_name: string;
@@ -22,7 +22,7 @@ export const useAuthStore = defineStore("auth", {
     async get() {
       try {
         // console.log("token", this.token);
-        const auth = await axios.get("/auth", {
+        const auth = await axios.get("/api/auth", {
           headers: { Authorization: `Bearer ${this.token}` },
         });
         this.user = auth.data.user;
@@ -40,9 +40,13 @@ export const useAuthStore = defineStore("auth", {
       phone: string;
     }) {
       try {
-        const auth = await axios.post("/user/update", data, {
-          headers: { Authorization: `Bearer ${this.token}` },
-        });
+        const auth = await axios.post(
+          "http://exchange.shop.local:8080/api/api/user/update",
+          data,
+          {
+            headers: { Authorization: `Bearer ${this.token}` },
+          }
+        );
         this.user = auth.data.user;
         this.token = auth.data.token;
         return auth;
@@ -53,7 +57,7 @@ export const useAuthStore = defineStore("auth", {
     },
     async signin(email: string, password: string) {
       try {
-        const auth = await axios.post("/auth/signin", { email, password });
+        const auth = await axios.post("/api/auth/signin", { email, password });
         this.user = auth.data.user;
         this.token = auth.data.token;
         setCookie("token", auth.data.token);
@@ -64,9 +68,12 @@ export const useAuthStore = defineStore("auth", {
     },
     async signout() {
       try {
-        const auth = await axios.get("/auth/signout", {
-          headers: { Authorization: `Bearer ${this.token}` },
-        });
+        const auth = await axios.get(
+          "http://exchange.shop.local:8080/api/auth/signout",
+          {
+            headers: { Authorization: `Bearer ${this.token}` },
+          }
+        );
         this.user = null;
         this.token = null;
         removeCookie("token");
