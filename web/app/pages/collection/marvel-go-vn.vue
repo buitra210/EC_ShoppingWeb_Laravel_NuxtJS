@@ -22,7 +22,7 @@ const collection = ref(null);
 onMounted(async () => {
   try {
     const response = await axios.get(
-      "/api/products/collection/marvel-go-vietnam"
+      "/api/api/products/collection/marvel-go-vietnam"
     );
     // Handle the response data here
     collection.value = response.data;

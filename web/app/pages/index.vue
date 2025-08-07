@@ -42,12 +42,12 @@ const bestPrice = ref(null);
 const bestSeller = ref(null);
 onMounted(async () => {
   try {
-    const resNewArrivals = await axios.get("/api/products/new-arrivals");
+    const resNewArrivals = await axios.get("/api/api/products/new-arrivals");
     // Handle the response data here
     newArrival.value = resNewArrivals.data;
-    const resBestSellers = await axios.get("/api/products/best-sellers");
+    const resBestSellers = await axios.get("/api/api/products/best-sellers");
     bestSeller.value = resBestSellers.data;
-    const resBestPrice = await axios.get("/api/products/best-price");
+    const resBestPrice = await axios.get("/api/api/products/best-price");
     bestPrice.value = resBestPrice.data;
   } catch (error) {
     // Handle errors here

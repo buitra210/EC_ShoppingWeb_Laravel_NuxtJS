@@ -21,7 +21,9 @@ const banners = [
 const collection = ref(null);
 onMounted(async () => {
   try {
-    const response = await axios.get("/api/products/collection/flex-to-school");
+    const response = await axios.get(
+      "/api/api/products/collection/flex-to-school"
+    );
     // Handle the response data here
     collection.value = response.data;
     // console.log(response.data);
