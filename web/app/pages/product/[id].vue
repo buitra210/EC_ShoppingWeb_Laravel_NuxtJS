@@ -254,7 +254,7 @@ watch(wish, () => {
 
 onMounted(async () => {
   try {
-    const res = await axios.get(`/api/products/search/${route.params.id}`);
+    const res = await axios.get(`/api/api/products/search/${route.params.id}`);
     product.value = res.data;
     console.log(product.value);
     liked.value = wish.checkIfExist(product.value);
