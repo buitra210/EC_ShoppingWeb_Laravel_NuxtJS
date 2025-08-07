@@ -41,7 +41,7 @@ export const useAuthStore = defineStore("auth", {
     }) {
       try {
         const auth = await axios.post(
-          "http://exchange.shop.local:8000/api/user/update",
+          "http://exchange.shop.local:8080/api/api/user/update",
           data,
           {
             headers: { Authorization: `Bearer ${this.token}` },
@@ -69,7 +69,7 @@ export const useAuthStore = defineStore("auth", {
     async signout() {
       try {
         const auth = await axios.get(
-          "http://exchange.shop.local:8000/api/auth/signout",
+          "http://exchange.shop.local:8080/api/auth/signout",
           {
             headers: { Authorization: `Bearer ${this.token}` },
           }
