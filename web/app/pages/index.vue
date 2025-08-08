@@ -34,6 +34,7 @@
 <script setup lang="ts">
 import axios from "axios";
 import ModernTitle from "~/components/title/ModernTitle.vue";
+import { ProductApiService } from "~/server/api/product";
 useHead({
   title: "BOO | Home",
 });
@@ -42,13 +43,14 @@ const bestPrice = ref(null);
 const bestSeller = ref(null);
 onMounted(async () => {
   try {
-    const resNewArrivals = await axios.get("/api/api/products/new-arrivals");
-    // Handle the response data here
-    newArrival.value = resNewArrivals.data;
-    const resBestSellers = await axios.get("/api/api/products/best-sellers");
-    bestSeller.value = resBestSellers.data;
-    const resBestPrice = await axios.get("/api/api/products/best-price");
-    bestPrice.value = resBestPrice.data;
+    const [resNewArrivals, resBestSellers, resBestPrice] = await Promise.all([
+      ProductApiService.getProductNewArrivals(),
+      ProductApiService.getProductBestSellers(),
+      ProductApiService.getProductBestPrice(),
+    ]);
+    newArrival.value = resNewArrivals;
+    bestSeller.value = resBestSellers;
+    bestPrice.value = resBestPrice;
   } catch (error) {
     // Handle errors here
     console.error("Request failed:", error);
