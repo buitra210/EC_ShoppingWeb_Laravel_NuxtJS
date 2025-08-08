@@ -16,7 +16,14 @@ import axios from "axios";
 useHead({
   title: "BOO | Flex to school",
 });
-const banners = ref<string[]>([]);
+const banners = [
+  "https://cdn.boo.vn/media/wysiwyg/sponge_bob___Desktop_27.6_1.webp",
+  "https://cdn.boo.vn/media/wysiwyg/sponge_bob___Desktop_27.6_1_.webp",
+  "https://cdn.boo.vn/media/wysiwyg/sponge_bob___Desktop_27.6_2_.webp",
+  "https://cdn.boo.vn/media/wysiwyg/sponge_bob___Desktop_27.6_3_.webp",
+  "https://cdn.boo.vn/media/wysiwyg/sponge_bob___Desktop_27.6_4__1.webp",
+  "https://cdn.boo.vn/media/wysiwyg/sponge_bob___Desktop_27.6_5_.webp",
+];
 const collection = ref(null);
 onMounted(async () => {
   try {

@@ -57,7 +57,6 @@ onMounted(async () => {
     // Handle errors here
     console.error("Request failed:", error);
   }
-  console.log("hi");
   if (products.value) {
     setInterval(() => {
       current.value += 1;

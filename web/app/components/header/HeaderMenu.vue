@@ -121,12 +121,12 @@ const items = ref([
         list: [],
       },
       {
-        title: "BOOLAAB EXPERIMENTAL",
+        title: "BOO SQUARE PANTS",
         link: "/collection/boolaab",
         list: [],
       },
       {
-        title: "BOO ESSENTIALS",
+        title: "BACK TO SCHOOL",
         link: "/collection/booxessentials",
         list: [],
       },

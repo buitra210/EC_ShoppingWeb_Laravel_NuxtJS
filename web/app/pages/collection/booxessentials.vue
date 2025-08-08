@@ -16,7 +16,18 @@ import axios from "axios";
 useHead({
   title: "BOO | Flex to school",
 });
-const banners = ref<string[]>([]);
+const banners = [
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_1.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_2.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_3.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_4.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_5.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_6.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_7.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_8_.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_9.webp",
+  "https://cdn.boo.vn/media/wysiwyg/Desktop_B2S_10.webp",
+];
 const collection = ref(null);
 onMounted(async () => {
   try {
