@@ -29,14 +29,14 @@ class ProductSeeder extends Seeder
                     'sku' => $productData['sku'],
                     'name' => $productData['name'],
                     'description' => $productData['description'],
-                    'price' => $productData['price'],
+                    'price' => $productData['price'] ?? 100000,
                     'old_price' => $productData['old_price'] ?? null,
                     'discount' => $productData['discount'] ?? null,
                     'color' => $productData['color'],
                     'brand' => $productData['brand'],
                     'collection' => $productData['collection'],
                     'size' => $productData['size'],
-                    'stock' => $productData['stock'],
+                    'stock' => $productData['stock'] ?? 50,
                     'image' => $productData['image'],
                 ]);
             }

@@ -23,7 +23,7 @@ class ProductController extends Controller
     {
         $data = $request->all();
         $data=json_decode($data['products'],true);
-        if (is_array($data)) {    
+        if (is_array($data)) {
             try {
                 foreach ($data as $productData) {
                     $existed=Product::where('name',$productData['name'])->first();
@@ -68,12 +68,12 @@ class ProductController extends Controller
     }
     public function newArrivals()
     {
-        $products = Product::orderBy('id', 'desc')->take(10)->get();
+        $products = Product::whereRaw('json_array_length(color) > 1')->orderBy('id', 'desc')->take(10)->get();
         return $products;
     }
     public function bestSeller()
     {
-        $products = Product::orderBy('stock', 'asc')->take(10)->get();
+        $products = Product::whereRaw('json_array_length(color) > 1')->orderBy('stock', 'asc')->take(10)->get();
         return $products;
     }
     public function bestPrice()
@@ -91,15 +91,15 @@ class ProductController extends Controller
         $update = $request->all();
         $update['image']=json_decode($update['image'],true);
         $product = Product::find($productId);
-    
+
         if (!$product) {
             return response("Not found", 404);
         }
-    
+
         // Use the update method on the model instance
         $product->fill($update);
         $product->save();
-    
+
         return response("Updated",200);
     }
 
