@@ -49,16 +49,16 @@ onMounted(() => {
 }
 @keyframes swipe {
   0% {
-    transform: translateX(30%);
+    transform: translateX(100%);
   }
   20% {
-    transform: translateX(0%);
+    transform: translateX(30%);
   }
   80% {
     transform: translateX(0%);
   }
   100% {
-    transform: translateX(-30%);
+    transform: translateX(-100%);
   }
 }
 </style>
